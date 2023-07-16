@@ -21,7 +21,8 @@ The YouTube Video Summarizer is an advanced application developed to facilitate 
 ## Installation
 
 The application will process the specified video, extract its transcript, and generate a concise summary of the video content.
-License
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
