@@ -1,4 +1,4 @@
-# DistilYT 
+# DistilYT: Real-time YouTube Video Summarizer
 
 ## Overview
 
