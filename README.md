@@ -2,7 +2,7 @@
 
 ## Overview
 
-The YouTube Video Summarizer is an advanced application developed to facilitate real-time summarization of YouTube videos, resulting in a significant reduction of video-watching time. This cutting-edge solution harnesses the YouTube Transcript API combined with the power of BART (Bidirectional and AutoRegressive Transformers), utilizing deep learning techniques to generate concise and accurate video summaries.
+The YouTube Video Summarizer is an advanced application developed to facilitate real-time summarization of YouTube videos, resulting in a significant reduction of video-watching time. This cutting-edge solution harnesses the YouTube Transcript API combined with the power of BART (Bidirectional and AutoRegressive Transformers), utilizing deep learning techniques to generate concise and accurate video summaries. The application will process the specified video, extract its transcript, and generate a concise summary of the video content.
 
 ## Features
 
@@ -17,10 +17,6 @@ The YouTube Video Summarizer is an advanced application developed to facilitate 
 * PyTorch
 * transformers
 * YouTube API client library
-
-## Installation
-
-The application will process the specified video, extract its transcript, and generate a concise summary of the video content.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
