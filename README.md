@@ -32,6 +32,17 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Disclaimer
 The YouTube Video Summarizer application is intended solely for educational and research purposes. The developers hold no responsibility for any misuse of the application or any violation of YouTube's terms of service. Users are advised to use the application responsibly and adhere to YouTube's policies when utilizing the YouTube Transcript API.
 
+## Contribute
+
+Contributions to the DistilYT project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request.
+
+You can open an [issue](https://github.com/vishnux/DistilYT/issues) or [pull request](https://github.com/vishnux/DistilYT/pulls).
+
+Here are some ideas on [How to Contribute](https://opensource.guide/how-to-contribute/).
+
+Please adhere to this project's [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+
+
 
 
 
