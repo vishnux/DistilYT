@@ -25,9 +25,9 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-YouTube Transcript API
-PyTorch
-Transformers
+* YouTube Transcript API
+* PyTorch
+* Transformers
 
 ## Disclaimer
 The YouTube Video Summarizer application is intended solely for educational and research purposes. The developers hold no responsibility for any misuse of the application or any violation of YouTube's terms of service. Users are advised to use the application responsibly and adhere to YouTube's policies when utilizing the YouTube Transcript API.
