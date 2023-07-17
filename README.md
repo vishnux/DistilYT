@@ -31,9 +31,7 @@ The YouTube Video Summarizer application is intended solely for educational and 
 
 ## Contribute
 
-Contributions to the DistilYT project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request.
-
-You can open an [issue](https://github.com/vishnux/DistilYT/issues) or [pull request](https://github.com/vishnux/DistilYT/pulls).
+Contributions to the DistilYT project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit an [issue](https://github.com/vishnux/DistilYT/issues) or [pull request](https://github.com/vishnux/DistilYT/pulls).
 
 Here are some ideas on [How to Contribute](https://opensource.guide/how-to-contribute/).
 
