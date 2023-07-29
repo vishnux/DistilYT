@@ -1,12 +1,12 @@
-# DistilYT: Real-time YouTube Video Summarizer
+# DistilYT: YouTube Video Summarizer
 
 ## Overview
 
-The YouTube Video Summarizer is an advanced application developed to facilitate real-time summarization of YouTube videos, resulting in a significant reduction of video-watching time. This cutting-edge solution harnesses the YouTube Transcript API combined with the power of BART (Bidirectional and AutoRegressive Transformers), utilizing deep learning techniques to generate concise and accurate video summaries. The application will process the specified video, extract its transcript, and generate a concise summary of the video content.
+The YouTube Video Summarizer is an advanced application developed to facilitate the summarization of YouTube videos, significantly reducing video-watching time. This cutting-edge solution harnesses the YouTube Transcript API combined with the power of BART (Bidirectional and AutoRegressive Transformers), utilizing deep learning techniques to generate concise and accurate video summaries. The application will process the specified video, extract its transcript, and generate a concise summary of the video content.
 
 ## Features
 
-* Real-time YouTube video summarization for efficient time management.
+* YouTube video summarization for efficient time management.
 * Utilizes the YouTube Transcript API to extract video transcripts seamlessly.
 * Implements the state-of-the-art BART model with PyTorch for highly effective text summarization.
 * Provides human-readable and informative summaries instantly.
